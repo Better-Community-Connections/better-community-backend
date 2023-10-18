@@ -66,7 +66,3 @@ Database migrations in `database/migrations` define the structure of your databa
 5. Configure your database in `.env`.
 6. Run migrations: `php artisan migrate`.
 7. Start the development server: `php artisan serve`.
-
----
-
-Feel free to customize this README file with specific details about your project and any additional information you want to provide.
